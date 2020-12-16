@@ -1,0 +1,13 @@
+C:\Users\dsgez\Desktop\Métodos Construtores\bin\Debug\netcoreapp3.1\Métodos Construtores.exe
+C:\Users\dsgez\Desktop\Métodos Construtores\bin\Debug\netcoreapp3.1\Métodos Construtores.deps.json
+C:\Users\dsgez\Desktop\Métodos Construtores\bin\Debug\netcoreapp3.1\Métodos Construtores.runtimeconfig.json
+C:\Users\dsgez\Desktop\Métodos Construtores\bin\Debug\netcoreapp3.1\Métodos Construtores.runtimeconfig.dev.json
+C:\Users\dsgez\Desktop\Métodos Construtores\bin\Debug\netcoreapp3.1\Métodos Construtores.dll
+C:\Users\dsgez\Desktop\Métodos Construtores\bin\Debug\netcoreapp3.1\Métodos Construtores.pdb
+C:\Users\dsgez\Desktop\Métodos Construtores\obj\Debug\netcoreapp3.1\Métodos Construtores.csprojAssemblyReference.cache
+C:\Users\dsgez\Desktop\Métodos Construtores\obj\Debug\netcoreapp3.1\Métodos Construtores.AssemblyInfoInputs.cache
+C:\Users\dsgez\Desktop\Métodos Construtores\obj\Debug\netcoreapp3.1\Métodos Construtores.AssemblyInfo.cs
+C:\Users\dsgez\Desktop\Métodos Construtores\obj\Debug\netcoreapp3.1\Métodos Construtores.csproj.CoreCompileInputs.cache
+C:\Users\dsgez\Desktop\Métodos Construtores\obj\Debug\netcoreapp3.1\Métodos Construtores.dll
+C:\Users\dsgez\Desktop\Métodos Construtores\obj\Debug\netcoreapp3.1\Métodos Construtores.pdb
+C:\Users\dsgez\Desktop\Métodos Construtores\obj\Debug\netcoreapp3.1\Métodos Construtores.genruntimeconfig.cache
